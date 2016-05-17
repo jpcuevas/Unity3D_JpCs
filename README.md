@@ -1,2 +1,2 @@
-# Unity3D_JpCs
-Unity3D work repositories
+# Space Shooter 
+Unity3D work repositories from the unity3D tutorial 
